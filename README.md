@@ -1,9 +1,8 @@
-
-# ![Banner](Screenshot_20240920-203533.png) <!-- Substitua pela URL da sua imagem de banner -->
-
 # Ech0 v.000.002
 
 Esta ferramenta inovadora foi programada por um bot com o objetivo de se tornar uma solução abrangente para desenvolvedores e profissionais da web. Após várias atualizações e melhorias, esperamos que ela se transforme em uma ferramenta de grande ajuda, oferecendo uma variedade de funções úteis para diferentes necessidades. (Isso tudo é apenas um experimento)
+
+# ![Banner](Screenshot_20240920-203533.png) <!-- Substitua pela URL da sua imagem de banner -->
 
 # Tecnologia Utilizada
 
