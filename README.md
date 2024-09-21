@@ -74,4 +74,6 @@ go run painel.go
 
 - Para ter acesso as suas ferramentas,basta entrar no site :
 
-
+```bash
+http://localhost:8080/
+```
