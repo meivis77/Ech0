@@ -101,3 +101,24 @@ go run painel.go
 ```bash
 http://localhost:8080/
 ```
+
+# Estrutura dos arquivos (Suporte)
+
+```bash
+ech0/
+│
+├── convert.txt              # Arquivo de texto para conversão
+├── go.mod                   # Arquivo de módulo Go, contém dependências do projeto
+├── go.sum                   # Arquivo de soma, mantém um registro das versões das dependências
+│
+├── convert_to_txt           # Diretório ou arquivo (precisa de mais contexto)
+├── cookie_checker            # Diretório ou arquivo (precisa de mais contexto)
+├── painel                    # Diretório ou arquivo (precisa de mais contexto)
+├── scraper.go               # Código fonte do scraper
+├── html-validator.go         # Código fonte do validador HTML
+├── link_checker.go           # Código fonte do verificador de links
+├── painel.go                 # Código fonte principal do painel
+├── cookie_checker.go         # Código fonte do verificador de cookies
+└── servidor.go               # Código fonte do servidor
+└── static                    # Diretório para arquivos estáticos (CSS, JS, etc.)
+```
