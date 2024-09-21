@@ -1,11 +1,36 @@
-# Ech0
-Uma ferramenta avançada para explorar e manipular sistemas, Nexus combina eficiência e discrição em um ambiente de hacking. Com interface intuitiva e recursos poderosos, permite que você se conecte a redes, execute scripts e analise dados.
 
 # ![Banner](Screenshot_20240920-203533.png) <!-- Substitua pela URL da sua imagem de banner -->
 
 # Ech0 v.000.002
 
-Do experimento feito anteriormente, lançamos umw ferramenta feita pelo mesmo bot só que dessa vez uma ferramenta web (Roda em navegadores),usando programas parecido com Selenium,Puppeteer e Playwright.
+Esta ferramenta inovadora foi programada por um bot com o objetivo de se tornar uma solução abrangente para desenvolvedores e profissionais da web. Após várias atualizações e melhorias, esperamos que ela se transforme em uma ferramenta de grande ajuda, oferecendo uma variedade de funções úteis para diferentes necessidades. (Isso tudo é apenas um experimento)
+
+# Tecnologia Utilizada
+
+Desenvolvida em **Go**, a ferramenta é executada diretamente no navegador, proporcionando uma experiência rápida e responsiva. Ao contrário de outras ferramentas disponíveis, nossa abordagem única combina eficiência e facilidade de uso, destacando-se no mercado.
+
+
+1. **Web Scraper:**
+
+Extrai informações relevantes de páginas da web, como links, usuários e títulos. Essa funcionalidade é crucial para aqueles que precisam coletar dados rapidamente para análise ou desenvolvimento.
+
+
+
+2. **Cookie Checker:**
+
+Permite a extração de informações do cookie de uma página da web. Com isso, os usuários podem obter todos os detalhes relevantes sobre os cookies, auxiliando em auditorias de segurança e conformidade.
+
+
+
+3. **Verificador de Links Quebrados:**
+
+Auxilia na verificação de vulnerabilidades ao identificar links quebrados em páginas. Essa função é essencial para manter a integridade e a usabilidade de sites, ajudando a evitar problemas que possam afetar a experiência do usuário.
+
+
+
+4. **Validação de HTML/CSS:**
+
+Oferece suporte no estudo da estrutura web, permitindo que os desenvolvedores validem seu código HTML e CSS. Esta funcionalidade não apenas ajuda a garantir que os sites sejam semanticamente corretos, mas também a melhorar a acessibilidade e o SEO.
 
 ---
 
